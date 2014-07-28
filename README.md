@@ -3,7 +3,7 @@ Welcome to Nation, Inc
 
 Sign up to your brand new virtual citizenship.
 
-Nation, Inc is a decentralized, unaffiliated cross-study of political theory, human rights, and technology.
+Nation, Inc is a decentralized, unaffiliated cross-study of political theory, human rights, morality, and technology.
 
 We don't believe that the concept of the nation-state is applicable anymore.
 
