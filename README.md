@@ -7,7 +7,7 @@ Nation, Inc is a decentralized, unaffiliated cross-study of political theory, hu
 
 We don't believe that the concept of the nation-state is applicable anymore.
 
-Our goal is to debate, develop, and deploy an alternative, opt-in, decentralized government system, one that is more closely adapted for the realities of the 21st century.
+Our goal is to debate, develop, and deploy an alternative, opt-in, decentralized governance system, one that is more closely adapted for the realities of the 21st century.
 
 We aim at setting a strong framework based on established human rights conventions, open-source technology, and fresh political thinking.
 
