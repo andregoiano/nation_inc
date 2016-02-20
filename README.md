@@ -3,7 +3,7 @@ Welcome to Nation, Inc
 
 Sign up to your brand new virtual citizenship.
 
-Nation, Inc is a decentralized, unaffiliated cross-study of political theory, human rights, morality, and technology.
+Nation, Inc. is a distributed, unaffiliated cross-study of political theory, human rights, morality, and technology.
 
 We don't believe that the concept of the nation-state is applicable anymore.
 
@@ -11,11 +11,14 @@ Our goal is to debate, develop, and deploy an alternative, opt-in, decentralized
 
 We aim at setting a strong framework based on established human rights conventions, open-source technology, and fresh political thinking.
 
+Current status
+==========
+Pre-launch, inactive since December 2014.
 
 On participation
 ==========
 
-Everyone is encouraged to participate.
+Absolutely everyone is encouraged to participate.
 
 We need the help of software coders, law practitioners, political thinkers, human rights activists, writers, designers, economists, psychologists, artists, communications, and more.
 
